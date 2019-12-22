@@ -162,4 +162,4 @@ bindsym $mod+Shift+x exec /home/galiold/Sources/betterlockscreen/betterlockscree
 
 ## Displaying keyboard layout
 exec "setxkbmap -layout us,ir"
-exec "setxkbmap -option 'grp:ctrl_shift_toggle'"
+exec "setxkbmap -option 'grp:ctrl_alt_toggle'"
